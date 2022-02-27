@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611910813206",
+    "project_id": "emailpasswordauth-44e85",
+    "storage_bucket": "emailpasswordauth-44e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611910813206:android:23f02d4a4f93ac1ba25737",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611910813206-95b6rrg1hlgut863bljd683ot3toe0aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGAbzAguKXytixEskEk6JBUA_GLYifdMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611910813206-95b6rrg1hlgut863bljd683ot3toe0aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
